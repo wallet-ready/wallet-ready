@@ -2,11 +2,12 @@
 
 ## Versionierung
 
-| Version  | Date         | Description                                                                               |
-|----------|--------------|-------------------------------------------------------------------------------------------|
-| `0.1`    | 13.06.2026   | Initiale Version.                                                                         |
-| `0.2`    | 16.06.2026   | Einleitender Kurztext für jede Kategorie.                                                 |
-| `0.3`    | 20.06.2026   | Use Case zur Registrierung von SIM-Karten ergänzt. |
+| Version | Date        | Description                                        |
+|---------|-------------|----------------------------------------------------|
+| `0.1`   | 13.06.2026  | Initiale Version.                                  |
+| `0.2`   | 16.06.2026  | Einleitender Kurztext für jede Kategorie.          |
+| `0.3`   | 20.06.2026  | Use Case zur Registrierung von SIM-Karten ergänzt. |
+| `0.4`  | 25.06.2026 | Ergänzungen bzgl. des Handwerks.                   |
 
 # Verwaltung
 
@@ -89,7 +90,7 @@ Anwendungsfälle im Bildungssektor in der Schule, der Hochschule und der Erwachs
 - Nachweise über Lernergebnisse, Studienleistungen, Schul- und Hochschulabschlüsse (z.B. Ausbildungsnachweise, Zeugnisse)
 - Nachweise über berufliche Qualifikationen, Titel und Zulassungen
 
-# Industrie
+# Industrie & Handwerk
 
 Anwendungsfälle im Bereich der industriellen und handwerklichen Wertschöpfung.
 
@@ -104,6 +105,10 @@ Anwendungsfälle im Bereich der industriellen und handwerklichen Wertschöpfung.
 - Sichere Verarbeitungsumgebungen gemäß dem Data Governance Act
 - Meldung von Umweltdaten aus Industrieanlagen
 - Nachweise für Akkreditierungen, Zertifikate und Konformitätsbewertungen
+- Prozesse rund um die Handwerksrolle
+- Elektronische Handwerkskarte
+- Elektronischer Meisterbrief
+- Elektronische Leistungs- und Ausführungsnachweise
 
 # Handel & Logistik
 
@@ -125,6 +130,7 @@ Anwendungsfälle im Bereich Handel und Logistik.
 Anwendungsfälle im Bereich Mobilität, Reisen und Tourismus.
 
 - Identifizierung und Authentifizierung an Portalen im Bereich Mobilität
+- Autorisierung von Ladevorgängen im Bereich der Elektromobilität
 - Elektronische Reisedokumente
 - Digitaler Fahrzeugschein
 - Mobiler Führerschein
@@ -144,6 +150,7 @@ Anwendungsfälle im Bereich der Justiz.
 - (Qualifizierte) Elektronische Signaturen und Siegel
 - Vertretungsbestätigungen und Vollmachten
 - Betreuerausweis
+- Unternehmensgründung
 - Handelsregisterauszug
 - Justizielle Zusammenarbeit und grenzüberschreitende Verfahren Zugang zum Recht
 - Zugang zum e-CODEX-System
